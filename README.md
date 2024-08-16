@@ -1,0 +1,2 @@
+# GPSLogger_forMSX0
+GPSユニット「AT6558」を使っていた場所をロギングするBASICプログラム
