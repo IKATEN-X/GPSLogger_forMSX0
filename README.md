@@ -32,11 +32,12 @@ Ambientにアップロードしたログを地図にプロットするには、�
 作成されたボード名をクリックすると、真っ白な画面が表示されますので、どのデータをどのように表示するかの設定をここで行います。  
 ページ上部にチャート追加のボタン  <img src="https://github.com/IKATEN-X/GPSLogger_forMSX0/blob/main/image2.jpg?raw=true"> が表示されていますので、それをクリック。  
 チャート作成中の表示が追加されるので、その中の「チャネル/データ設定」をクリック。
-<img src="https://github.com/IKATEN-X/GPSLogger_forMSX0/blob/main/image3.jpg?raw=true" width="500">  
+<img src="https://github.com/IKATEN-X/GPSLogger_forMSX0/blob/main/image3.jpg?raw=true" width="300">  
   
 チャート名を設定し、チャネルを選んでください。  
 チャート種類は「地図」を選択してください。  
 表示件数は、ひと塊で表示する件数なので適当に設定してください。10秒に1個のログを残すので360ぐらいが1時間ぐらいの目安です。  
+<img src="https://github.com/IKATEN-X/GPSLogger_forMSX0/blob/main/image4.jpg?raw=true" width="500">  
 
 Ambientでの設定は以上です。  
 次にプログラムの変更です。  
